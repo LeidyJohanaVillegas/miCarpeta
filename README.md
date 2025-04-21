@@ -1,5 +1,5 @@
 # Entrega de conocimiento usando GitHub con repositorio local y repositorio GitHub:
-
+``` 
 1. Crear Repositorio local desde la terminal.
 RTA: Aquí creamos la carpeta.
  ´´´Microsoft Windows [Versión 10.0.26100.3775]
@@ -48,4 +48,4 @@ RTA:
  ´´´PS C:\Users\JOHANA NIÑO\Desktop\miCarpeta> git push -u origin main
     branch 'main' set up to track 'origin/main'.
     Everything up-to-date´´´
-
+``` 
