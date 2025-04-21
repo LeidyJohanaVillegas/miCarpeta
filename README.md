@@ -17,8 +17,11 @@ RTA: Aquí creamos la carpeta.
     C:\Users\JOHANA NIÑO\Desktop\miCarpeta>code .´´´
 4. Crear repositorio GitHub.
     RTA:
+```
  ´´´![imagen de como cree el repositorio en gitHub](img/git1.png)´´´
+
  ´´´![imagen de como cree el repositorio en gitHub](img/git2.png)´´´
+``` 
 5. Aquí creo el README.md, inicializo y guardo .
  ´´´PS C:\Users\JOHANA NIÑO\Desktop\miCarpeta> echo "# Entrega de conocimiento usando GitHub con repositorio local y repositorio GitHub" >> README.md
     PS C:\Users\JOHANA NIÑO\Desktop\miCarpeta> git init
